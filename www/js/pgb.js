@@ -21,9 +21,9 @@ function deviceInfo() {
 	
 }
 
-function click(){
+function clickMe(){
 
-	info = 'Maciek Małochleb' + '\n';
+	info = 'Maciek Malochleb' + '\n';
 
 	navigator.notification.alert(info);
 
