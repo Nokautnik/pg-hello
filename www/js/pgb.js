@@ -20,11 +20,3 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-
-function clickMe(){
-
-	info = 'Maciek Malochleb' + '\n';
-
-	navigator.notification.alert(info);
-
-}
